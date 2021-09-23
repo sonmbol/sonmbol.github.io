@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://sonmbol.github.io.git/burag/burag.ipa</string>
+					<string>https://sonmbol.github.io.git/burag/Apps/burag.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -47,7 +47,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://sonmbol.github.io.git/burag/burag-FDDEEAD4-3BA3-4642-A3B2-0062CDDAE478.ipa</string>
+					<string>https://sonmbol.github.io.git/burag/Apps/burag-FDDEEAD4-3BA3-4642-A3B2-0062CDDAE478.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -594,7 +594,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://sonmbol.github.io.git/burag/burag-B9EB6141-4702-462A-9DBA-B93DE2DC61F5.ipa</string>
+					<string>https://sonmbol.github.io.git/burag/Apps/burag-B9EB6141-4702-462A-9DBA-B93DE2DC61F5.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -792,7 +792,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://sonmbol.github.io.git/burag/burag-03E83F41-75A1-4FB1-BC4B-2508593AB476.ipa</string>
+					<string>https://sonmbol.github.io.git/burag/Apps/burag-03E83F41-75A1-4FB1-BC4B-2508593AB476.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -910,7 +910,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://sonmbol.github.io.git/burag/burag-E155AAD5-48AA-47A7-9431-A96E61633A92.ipa</string>
+					<string>https://sonmbol.github.io.git/burag/Apps/burag-E155AAD5-48AA-47A7-9431-A96E61633A92.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
