@@ -1,0 +1,88 @@
+body {
+          font-family: "Helvetica Neue";
+          font-weight: lighter;
+          background-color: #efeff4;
+      }
+      .installFont{
+          font-family: Helvetica Neue !important;
+          font-weight: normal;
+          font-size:medium;
+      }
+      .ui-icon-myapp-download {
+          background-image: url("app-icon-download.png") !important; /*I added the !important, I found that this rule was being overwritten*/
+          background-color: none;
+          border: none;
+          box-shadow: none;
+          background-repeat: no-repeat;
+      }
+
+      .ui-page .ui-header {
+         /* background: #37AA33 !important;*/
+           background: #ffffff !important;
+      }
+
+      .subHead2 {
+          color: Gray;
+          font-weight: normal;
+          margin-top: 0px !important;
+          vertical-align: middle;
+      }
+
+      .subHead {
+          color: Gray;
+          font-weight: normal;
+      }
+
+      .label {
+          color: Black;
+          font-weight: normal;
+      }
+
+      .imgIcon {
+          /*padding: 10px;*/
+          float: right;
+          width: 38px;
+          height: 38px;
+      }
+      .imgdownload{
+          /*padding: 10px;*/
+        
+          margin-right: 10px;
+         
+      }
+      .item-inner {
+          overflow: auto !important;
+          white-space: normal !important;
+          color: Black;
+          font-family: "Helvetica Neue";
+          font-weight: normal;
+      }
+      .ui-icon-custom:after {
+          background-image: url("app-icon-download.png");
+          background-position: 3px 3px;
+          background-size: 70%;
+          background-color: transparent;
+      }
+
+      .ui-icon-customIcon:after {
+          background-image: url("icon-so.png");
+          background-position: 3px 3px;
+          background-size: 70%;
+          background-color: transparent;
+          width: 32px;
+          height: 32px;
+          margin-bottom: 20px;
+      }
+
+      .ui-li-divider {
+          text-decoration: none;
+          background-color: #efeff4 !important;
+      }
+
+      .nobg {
+          background-color: White !important;
+      }
+
+          .nobg:visited {
+              color: black !important;
+          }
