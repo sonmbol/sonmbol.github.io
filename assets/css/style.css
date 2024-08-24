@@ -464,7 +464,7 @@ a.theme-btn {
     .list-style-one li {
       font-size: 20px; } }
   .list-style-one li:before {
-    content: "⚙︎";
+    content: "\f00c";
     line-height: 1;
     margin-top: 2px;
     margin-right: 12px;
